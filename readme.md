@@ -1,3 +1,6 @@
+this is lumi!!
+![Lumi's Pfp](https://cdn.discordapp.com/avatars/1330479419441152061/3f3a0806f2b334d2a5098f202c715cb7.png?size=1024)
+
 # Lumi - A Discord Bot  
 
 Lumi is a powerful made with nextcord as a Discord bot developed by Thai developers. It features **prefix-based commands** with **dynamic prefix support**, making it adaptable to different server preferences.  
